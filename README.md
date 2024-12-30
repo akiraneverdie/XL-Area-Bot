@@ -21,8 +21,8 @@ Bot Telegram untuk mengecek area XL di seluruh Indonesia. Bot ini membantu pengg
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/akirameverdie/xl-area-bot.git
-cd xl-area-bot
+git clone https://github.com/akirameverdie/XL-Area-Bot.git
+cd XL-Area-Bot
 ```
 
 2. Install dependencies
@@ -93,4 +93,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Owner Bot - [@suamichasca](https://t.me/suamichasca)
 
-Project Link: [https://github.com/akirameverdie/xl-area-bot](https://github.com/akirameverdie/xl-area-bot)
+Project Link: [https://github.com/akirameverdie/XL-Area-Bot](https://github.com/akirameverdie/XL-Area-Bot)
