@@ -27,7 +27,7 @@ cd XL-Area-Bot
 
 2. Install dependencies
 ```bash
-pip install python-telegram-bot
+pip3 install python-telegram-bot
 ```
 
 3. Konfigurasi bot
@@ -38,7 +38,7 @@ pip install python-telegram-bot
 
 4. Jalankan bot
 ```bash
-python bot.py
+python3 bot.py
 ```
 
 ## Usage 📱
